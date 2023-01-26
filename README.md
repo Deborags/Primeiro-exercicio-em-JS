@@ -1,12 +1,13 @@
 CONCLUSÃO FINAL A RESPEITO DO CÓDIGO DESENVOLVIDO EM JS
 
-Na parte de javascript não tive muitas dificuldades em criar as variaveis e em fazer a concatenação das strings, pois isso foi de  facil compreenção pra mim.
+Na parte de javascript não tive muitas dificuldades em criar as variáveis e fazer a concatenação das strings, pois isso foi de fácil compreensão.
 
-Mas, no momento que o exercicio pedia para fazer a comparação de idade entre a pessoa mais velha e pessoa mais nova, fiquei com um pouco de dificuldades pois não tinha entendido como faria isso. 
+Porém, no momento que o exercício pedia para fazer a comparação de idades entre a pessoa mais velha e pessoa mais nova, tive um pouco de dificuldade, pois não tinha entendido como faria isso. 
 
-Só muito depois de ver videos na internet, ler documentações sobre o assunto e fazer inumeras tentativas com function, number, etc. Ainda, sem nenhum resultado, tentei mais uma vez ver as aulas do curso One Bit Code para tentar achar a solução por la.
+Consegui somente após ver videos na internet, ler documentações sobre o assunto e fazer inúmeras tentativas com function, number, etc. Ainda, sem nenhum resultado, tentei mais uma vez ver as aulas do curso One Bit Code para tentar achar a solução por la.
 
-Foi que ai vi as primeiras aulas do primeiro módulo de JS em "Operações básicas" ví que ao fazer um calculo podemos colocar (). Então pensei em testar e deu certo, a sensação depois que resolvemos algo que estamos a dias presos e ver que é apenas um detalhe é maravilhosa e inesplicavel! 
+Quando vi as primeiras aulas do primeiro módulo de JS em "Operações básicas", percebi que ao fazer um calculo podemos colocar (), então testei e deu certo.
+ A sensação depois que resolvemos algo que estamos há dias com dificuldade, e percebemos que era apenas um detalhe é maravilhosa e inexplicável! 
 
 Antes o meu alert final estava assim: 
 
